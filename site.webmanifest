@@ -1,0 +1,11 @@
+{
+  "name": "سطحة الدمام – Dammam Car Towing",
+  "short_name": "سطحة الدمام",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#16191f",
+  "theme_color": "#16191f",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
